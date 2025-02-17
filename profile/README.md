@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/970677d2-8680-4de9-8b07-195e3b202edf" width="80">
+<img src="https://raw.githubusercontent.com/CodeItBoost3/CodeItBoost3_FE/develop/public/logo-image.png" width="80">
 
 
 # 🏡 조각집 - 기억 저장 및 공유 서비스
