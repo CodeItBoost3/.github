@@ -15,7 +15,7 @@
 > 소중한 순간들을 모아 **더 가치 있게 간직하세요.**  
 
 
-![image](https://github.com/user-attachments/assets/8e87e625-002b-44e6-a53f-aae43562768f)
+<img src="https://raw.githubusercontent.com/CodeItBoost3/CodeItBoost3_FE/develop/src/assets/image/readme.png">
 
 <br />
 
