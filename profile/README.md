@@ -56,7 +56,6 @@
 | <img src="https://github.com/park-hoyeon.png" width="20"> **박호연** | Backend | [GitHub](https://github.com/park-hoyeon) |
 | <img src="https://github.com/chaechae18.png" width="20"> **이채림** | Backend | [GitHub](https://github.com/chaechae18) |
 | <img src="https://github.com/wu-seong.png" width="20"> **장우성** | Backend | [GitHub](https://github.com/wu-seong) |
-| <img src="https://github.com/Eunbi02.png" width="20"> **김은비** | Frontend | [GitHub](https://github.com/Eunbi02) |
 | <img src="https://github.com/Dubabbi.png" width="20"> **윤소은** | Frontend, UI Improvement | [GitHub](https://github.com/Dubabbi) |
 | <img src="https://github.com/choikyungsoo.png" width="20"> **최경수** | Frontend | [GitHub](https://github.com/choikyungsoo) |
 
