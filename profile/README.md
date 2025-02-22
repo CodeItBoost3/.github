@@ -77,5 +77,3 @@ yarn dev
 
 ---
 
-🔗 **공식 웹사이트**: [puzzlespace.netlify.app](https://puzzlespace.netlify.app/)
-
